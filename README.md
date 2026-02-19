@@ -1,4 +1,4 @@
-# Cursor AuthStack Marketplace
+# Scalekit AuthStack for Cursor
 
 A marketplace of authentication-focused plugins for Cursor IDE, providing skills, agents, commands, and rules for OAuth, SSO, SCIM, MCP auth, and agent security.
 
