@@ -1,0 +1,39 @@
+{
+  "name": "scalekit-authstack",
+  "owner": {
+    "name": "Your Org",
+    "email": "plugins@example.com"
+  },
+  "metadata": {
+    "description": "Authentication skills for Cursor - OAuth, SSO, SCIM, MCP auth, and agent security",
+    "version": "0.1.0",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "mcp-auth",
+      "source": "mcp-auth",
+      "description": "OAuth 2.1 for MCP servers"
+    },
+    {
+      "name": "agent-auth",
+      "source": "agent-auth",
+      "description": "Secure auth for AI agents"
+    },
+    {
+      "name": "fsa",
+      "source": "fsa",
+      "description": "Full-stack web auth"
+    },
+    {
+      "name": "modular-sso",
+      "source": "modular-sso",
+      "description": "Enterprise SSO integration"
+    },
+    {
+      "name": "modular-scim",
+      "source": "modular-scim",
+      "description": "User provisioning & SCIM"
+    }
+  ]
+}

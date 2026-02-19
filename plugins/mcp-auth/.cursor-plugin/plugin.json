@@ -1,0 +1,12 @@
+{
+  "name": "mcp-auth",
+  "displayName": "MCP Auth",
+  "version": "0.1.0",
+  "description": "OAuth 2.1 authorization for MCP servers",
+  "author": {
+    "name": "Your Org",
+    "email": "plugins@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["oauth", "mcp", "authentication", "cursor"]
+}

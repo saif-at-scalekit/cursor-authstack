@@ -1,0 +1,12 @@
+{
+  "name": "modular-sso",
+  "displayName": "Modular SSO",
+  "version": "0.1.0",
+  "description": "Enterprise SSO integration (Okta, JumpCloud, Entra ID)",
+  "author": {
+    "name": "Your Org",
+    "email": "plugins@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["sso", "enterprise", "oidc", "saml", "cursor"]
+}

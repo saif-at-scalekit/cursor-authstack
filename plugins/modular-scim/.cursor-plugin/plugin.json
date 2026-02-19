@@ -1,0 +1,12 @@
+{
+  "name": "modular-scim",
+  "displayName": "Modular SCIM",
+  "version": "0.1.0",
+  "description": "User provisioning and directory sync with SCIM 2.0",
+  "author": {
+    "name": "Your Org",
+    "email": "plugins@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["scim", "provisioning", "sync", "cursor"]
+}
