@@ -1,7 +1,7 @@
 {
   "name": "mcp-auth",
   "displayName": "MCP Auth",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "OAuth 2.1 authorization for MCP servers",
   "author": {
     "name": "Saif Ali Shaik",
