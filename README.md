@@ -22,7 +22,7 @@ Pick the auth you need: MCP auth, SSO, SCIM provisioning, agent auth, or full-st
 
 ## Installation
 
-The plugin bundle is currently **under review for the Cursor Marketplace**. Once approved, you will be able to install it directly from the Cursor plugin panel in a single click.
+The plugin bundle is currently **under review for the [Cursor Marketplace](https://cursor.com/marketplace)**. Once approved, you will be able to install it directly from the Cursor plugin panel in a single click.
 
 Until then, you can load it manually by cloning this repository into your workspace. See [Cursor's plugin documentation](https://cursor.com/docs/plugins) for how to configure and activate local plugins.
 
