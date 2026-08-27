@@ -5,7 +5,7 @@
     "email": "support@scalekit.com"
   },
   "metadata": {
-    "description": "Everything that you need to add authstack to your projects. MCP Auth, Agent Auth, Full Stack Auth, Enterprise SSO, User Provisioning, and more.",
+    "description": "ARCHIVED. Install from scalekit-inc/authstack instead. Old five-plugin marketplace.",
     "version": "1.0.0",
     "pluginRoot": "plugins"
   },

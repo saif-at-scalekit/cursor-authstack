@@ -1,5 +1,7 @@
 # AGENTS.md
 
+**Archived.** Do not add skills here. Author in [scalekit-inc/authstack](https://github.com/scalekit-inc/authstack) or [scalekit-inc/skills](https://github.com/scalekit-inc/skills).
+
 This repository is a monorepo of Cursor plugins intended for marketplace distribution.
 Any agent changing this repo must follow this document.
 
